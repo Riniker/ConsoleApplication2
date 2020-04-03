@@ -8,6 +8,7 @@ int main()
 {
     cout << "Hello World!\n"; 
 	cout << "ver2";
+	cout << "ver3";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
